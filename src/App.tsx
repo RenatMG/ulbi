@@ -5,7 +5,7 @@ import './index.scss';
 const App = () => {
     return (
       <div className="app">
-          App
+          https://ulbitv.ru/teach/control/stream/
           <Counter />
       </div>
     );

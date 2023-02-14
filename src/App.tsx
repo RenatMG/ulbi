@@ -1,6 +1,5 @@
 import './index.scss';
-import {Routes, Route} from 'react-router-dom';
-import {Link} from 'react-router-dom';
+import {Routes, Route, Link} from 'react-router-dom';
 import {AboutPageAsync} from "./pages/AboutPage/AboutPage.async";
 import {MainPageAsync} from "./pages/MainPage/MainPageAsync";
 import {Suspense} from 'react';
